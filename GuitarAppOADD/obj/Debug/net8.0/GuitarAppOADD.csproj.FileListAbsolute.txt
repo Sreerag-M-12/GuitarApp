@@ -1,0 +1,14 @@
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\bin\Debug\net8.0\GuitarAppOADD.exe
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\bin\Debug\net8.0\GuitarAppOADD.deps.json
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\bin\Debug\net8.0\GuitarAppOADD.runtimeconfig.json
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\bin\Debug\net8.0\GuitarAppOADD.dll
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\bin\Debug\net8.0\GuitarAppOADD.pdb
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\obj\Debug\net8.0\GuitarAppOADD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\obj\Debug\net8.0\GuitarAppOADD.AssemblyInfoInputs.cache
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\obj\Debug\net8.0\GuitarAppOADD.AssemblyInfo.cs
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\obj\Debug\net8.0\GuitarAppOADD.csproj.CoreCompileInputs.cache
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\obj\Debug\net8.0\GuitarAppOADD.dll
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\obj\Debug\net8.0\refint\GuitarAppOADD.dll
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\obj\Debug\net8.0\GuitarAppOADD.pdb
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\obj\Debug\net8.0\GuitarAppOADD.genruntimeconfig.cache
+C:\Users\sreerag.babu\source\repos\GuitarAppOADD\GuitarAppOADD\obj\Debug\net8.0\ref\GuitarAppOADD.dll
