@@ -20,11 +20,18 @@ namespace GuitarAppOADD
             Console.WriteLine();
             
             
-            GuitarSpecification guitarsearch = new GuitarSpecification(12,Builder.FENDER, "Model1", GuitarType.ELECTRIC, Wood.REDWOOD, Wood.ALDER);
+            GuitarSpecification guitarsearch1 = new GuitarSpecification(12,Builder.FENDER, "Model1", GuitarType.ELECTRIC, Wood.REDWOOD, Wood.ALDER);
+            GuitarSpecification guitarsearch2 = new GuitarSpecification(12, Builder.FENDER, "Model1", GuitarType.ACOUSTIC, Wood.REDWOOD, Wood.ALDER);
 
-            List<Guitar> foundGuitars = inventory.SearchGuitar(guitarsearch);
+            List<Guitar> foundGuitars = inventory.SearchGuitar(guitarsearch1);
             PrintAvailableGuitars(foundGuitars);
-            
+            Console.WriteLine();
+            foundGuitars = inventory.SearchGuitar(guitarsearch2);
+            PrintAvailableGuitars(foundGuitars);
+
+
+
+
         }
 
         static void PrintAvailableGuitars(List<Guitar> list)
